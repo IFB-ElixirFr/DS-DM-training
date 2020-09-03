@@ -83,5 +83,5 @@ The course will be held over four consecutive mornings. Course are 9:00-12:30 CE
 * Learners can use FAIRDOMHub and similar platforms for their future work
 
 
-![ELIXIR-LU](https://ifb-elixirfr.github.io/ELIXIR-DMP-DS-training/elixir-luxembourg-logo-1.jpg) ![ELIXIR-FR](https://ifb-elixirfr.github.io/ELIXIR-DMP-DS-training/elixir_fr_2.jpg) ![IFB](https://ifb-elixirfr.github.io/ReproHackathon/logo-ifb.png)
+![ELIXIR-FR](https://ifb-elixirfr.github.io/ELIXIR-DMP-DS-training/elixir_fr_2.jpg) ![IFB](https://ifb-elixirfr.github.io/ReproHackathon/logo-ifb.png) ![ELIXIR-LU](https://ifb-elixirfr.github.io/ELIXIR-DMP-DS-training/elixir-luxembourg-logo-1.jpg)
 
