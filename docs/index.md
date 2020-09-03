@@ -13,8 +13,8 @@ ELIXIR-FR and ELIXIR-LU are pleased to announce : "Best practices in research da
 
 ## Steering Committee
 
-* Victoria Dominguez Del Angel, Institut Français de Bioinformatique, CNRS, ELIXIR-FR
-* Olivier Sand, CNRS, IFB (ELIXIR-FR)
+* Victoria Dominguez Del Angel, CNRS, IFB, ELIXIR-FR
+* Olivier Sand, CNRS, IFB, ELIXIR-FR
 * Pinar Alper, ELIXIR-LU
 * Roland Krause, ELIXIR-LU
 
