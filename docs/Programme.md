@@ -5,9 +5,9 @@ In addition to lectures, this training includes several hands-on practicals, all
 
 ## Address
 
-Due to COVID-19 and travel restriction, ELIXIR-FR and ELIXIR-LU are deciding to deliver this course online.
+Due to COVID-19 and travel restriction, ELIXIR-FR and ELIXIR-LU have decided to deliver this course online.
 
-The course will be held over for four consecutive mornings. Course are 9:00-12:30 CET from 5th to 8th Octobre, 2020
+The course will be held over four consecutive mornings. Course are 9:00-12:30 CET from 5th to 8th Octobre, 2020
 
 ## Course Programme
 
