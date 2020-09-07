@@ -8,4 +8,3 @@ We will accept a maximum of 25 participants. Priority will be given to candidate
 
 
 
-![ELIXIR-FR](https://ifb-elixirfr.github.io/ELIXIR-DMP-DS-training/elixir_fr_2.jpg) ![IFB](https://ifb-elixirfr.github.io/ReproHackathon/logo-ifb.png) ![ELIXIR-LU](https://ifb-elixirfr.github.io/ELIXIR-DMP-DS-training/elixir-luxembourg-logo-1.jpg)U
