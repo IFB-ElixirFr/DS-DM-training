@@ -74,9 +74,7 @@ The course will be held over four consecutive mornings. Course are 9:00-12:30 CE
 * Learners can use the Data Stewardship Wizard to record data management decisions for prospective projects.
 * Learners can list requirements for accountable use of human data in research
 * Learners can use the Data Information System to keep record of research projects and sensitive human-subject data.
-* Learners can setup their own safe working environment
 * Learners are able to ingest research data and perform key operations increasing the data integrity
-* Learners can use snakemake and conda to structure their computational workflows and make them reproducible.
 * ...
 * Learners can tell whether or not their current practices on data handling results in FAIR data.
 * Learners can publish their data and their results in accordance to FAIR principles
