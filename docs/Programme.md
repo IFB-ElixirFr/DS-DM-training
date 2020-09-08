@@ -44,7 +44,7 @@ The course will be held over four consecutive mornings. Course are 9:00-12:30 CE
 
 ### Session 4:  FAIR data principles and Data publishing and archival
 
-* Understanding FAIR principles
+* Understanding [FAIR principles](https://doi.org/10.1038/sdata.2016.18)
 * Incentives for FAIR data
 * Achieving FAIR'ness, possible paths
 * Group discussions
