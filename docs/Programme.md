@@ -16,12 +16,12 @@ The course will be held over four consecutive mornings. Course are 9:00-12:30 CE
 * Data Management planning as an intervention
 * Research data lifecycle
 * Areas of consideration in data management planning
-* Data management planning tools
+* Data management planning tools: [DSW](https://ds-wizard.org/),[DMPonline](https://dmponline.dcc.ac.uk/),[OPIDoR](https://dmp.opidor.fr/)
 * Practical with the Data Stewardship Wizard (DSW)
 
 ### Session 2:  Data protection in research
 
-* Brief overview of the GDPR
+* Brief overview of the [GDPR](https://gdpr.eu/)
 * Impact of the GDPR on bio-medical research, ethical and legal requirements
 * Organisational and technical measures for data protection:
   * policies, training, data protection impact assessments,
