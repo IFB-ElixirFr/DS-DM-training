@@ -1,12 +1,11 @@
 # Best practices in research data management and stewardship
 
-The course is made up of seven sessions covering:
+The course is made up of six sessions covering:
 
 * Data management planning
 * Data protection in research, requirements and responsibilities originating from GDPR
 * Practicalities of data handling
 * Reproducible computational analyses
-* Exploratory analyses, reproducible manuscripts
 * FAIR data principles
 * Data publishing and archival
 
@@ -32,7 +31,6 @@ The course is made up of seven sessions covering:
 * Learners can setup their own safe working environment
 * Learners are able to ingest research data and perform key operations increasing the data integrity
 * Learners can use snakemake and conda to structure their computational workflows and make them reproducible.
-* ...
 * Learners can tell whether or not their current practices on data handling results in FAIR data.
 * Learners can publish their data and their results in accordance to FAIR principles
 * Learners can use FAIRDOMHub and similar platforms for their future work
@@ -75,12 +73,14 @@ The course is made up of seven sessions covering:
 
 ### Session 4 Reproducible computational analyses
 
-### Session 5 FAIR data principles, data publishing and archival
+### Session 5 FAIR data principles,
 
 * Understanding FAIR principles
 * Incentives for FAIR data
 * Achieving FAIR'ness, possible paths
 * Group discussions
+
+### Session 6 data publishing and archival
 * Recalling FAIR principles in publishing data and results
 * Introduction to FAIRDOMhub as a resource for FAIR data and results publishing
 * Practical using FAIRDOMHub for FAIR data and results publishing
