@@ -20,7 +20,6 @@ The course is made up of seven sessions covering:
 * To learn how to properly name files and organize research data
 * To learn about data integrity and its role in research data management
 * To learn how to make computational processing and analysis reproducible.
-* ...
 * To learn about FAIR data principles and their rationale, to reveal key indicators for FAIR'ness for a dataset.
 * To learn how FAIR principles can be applied in data and results publishing on the example of data publishing at FAIRDOMHub.
 
@@ -62,7 +61,7 @@ The course is made up of seven sessions covering:
   * record keeping/accountability,
 * Practical with the Data Information System (DAISY)
 
-### Session 3 Practicalities of data handling and Reproducible computational analyses
+### Session 3 Practicalities of data handling 
 
 * Research data transfer
 * Optimal file naming and organization
@@ -73,9 +72,10 @@ The course is made up of seven sessions covering:
   * Read-only permission
 * Data retention
 * Practical on data ingestion
-* How to create snakemake workflow for ChIP-seq analysis
 
-### Session 4 FAIR data principles and Data publishing and archival
+### Session 4 Reproducible computational analyses
+
+### Session 5 FAIR data principles, data publishing and archival
 
 * Understanding FAIR principles
 * Incentives for FAIR data
