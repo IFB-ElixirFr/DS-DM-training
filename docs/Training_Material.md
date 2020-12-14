@@ -3,6 +3,7 @@
 Session 1 | Instructor | Link
 :----- | :----: | :-----
 Data Management Planing | Pinar Alper | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4066560.svg)](https://doi.org/10.5281/zenodo.4066560)
+DMP OPIDoR | Marie-Christine Jacquemot | ![DMP-OPIDoR](https://ifb-elixirfr.github.io/ELIXIR-DMP-DS-training/DMPOPIDoR_ELIXIR_FR_LU_20201005(1)(1).pdf)
 
 
 Session 2 | Instructor | Link
