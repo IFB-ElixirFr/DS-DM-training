@@ -28,4 +28,7 @@ ELIXIR-FR and ELIXIR-LU are pleased to announce : "Best practices in research da
 ## Registration
 [Registration is free but compulsory](Registration.md)
 
+## Training Material
+[Training-Material associated with this event](Taining_Material.md)
+
 ![ELIXIR-FR](https://ifb-elixirfr.github.io/ELIXIR-DMP-DS-training/elixir_fr_2.jpg) ![IFB](https://ifb-elixirfr.github.io/ReproHackathon/logo-ifb.png) ![ELIXIR-LU](https://ifb-elixirfr.github.io/ELIXIR-DMP-DS-training/elixir-luxembourg-logo-1.jpg)
