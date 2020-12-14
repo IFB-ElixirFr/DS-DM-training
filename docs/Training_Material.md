@@ -2,15 +2,20 @@
 
 Session 1 | Instructor | Link
 :----- | :----: | :-----
-Data Management | Pinar Alper | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4066560.svg)](https://doi.org/10.5281/zenodo.4066560)
-Planing  | | 
+Data Management Planing | Pinar Alper | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4066560.svg)](https://doi.org/10.5281/zenodo.4066560)
 
-Session 2 | Column | Column
-:----- | :----: | -----:
-Left   | Center | Right
-align  | align  | align
 
-Session 3 | Column | Column
+Session 2 | Instructor | Link
+:----- | :----: | :-----
+Data Protection | Pinar Alper | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4068199.svg)](https://doi.org/10.5281/zenodo.4068199)
+Practical Data Handling session | Pinar Alper | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4068228.svg)](https://doi.org/10.5281/zenodo.4068228)
+
+Session 3 | Instructor | Link
+:----- | :----: | :-----
+Reproducible analysis  | Roland Krause | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4071506.svg)](https://doi.org/10.5281/zenodo.4071506)
+
+
+Session 4 | Column | Column
 :----- | :----: | -----:
 Left   | Center | Right
 align  | align  | align
