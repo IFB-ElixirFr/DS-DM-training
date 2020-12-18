@@ -2,6 +2,7 @@
 
 Session 1 | Instructor | Link
 :----- | :----: | :-----
+Welcome Session | Organisation Committee | Welcome from ELIXIR (FR and LU) <a href="ELIXIR-DMP-DS-training_welcome.pdf">Welcome</a>
 Data Management Planing | Pinar Alper | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4066560.svg)](https://doi.org/10.5281/zenodo.4066560)
 DMP OPIDoR | Marie-Christine Jacquemot| OPIDoR <a href="DMPOPIDoR_ELIXIR_FR_LU_20201005.pdf">DMP_OPIDoR</a>
 
